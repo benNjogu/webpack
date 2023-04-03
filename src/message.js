@@ -1,1 +1,1 @@
-module.exports = 'I love mastering concepts!';
+export default 'I love mastering concepts!';
